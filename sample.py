@@ -1,6 +1,6 @@
-a=5
-b=6
-c=8
-sum = a+b
+a=55
+b=66
+c=88
+sum = a+b+c
 print sum
 
